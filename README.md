@@ -1,4 +1,4 @@
-# OLÁ!! Eu sou a Bia Mancio!
+Olá!! Eu sou a Bia!
 
 💻 Atualmente trabalhando com bancos de dados de mamíferos 🐵 da mata Atlântica no Brasil! 
 
